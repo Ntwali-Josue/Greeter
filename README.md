@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Budget App
+# Greeter App
 
-> In this project,I create a mobile budget application, where a user can manage your budget. A user can have a list of transactions associated with a category, so that he can see how much money he spent and on what.
+> In this project, I create a simple web app which greets the user with different messages from different languages.
 
 ## Deployment: 
 [Budget-App](https://radiant-mesa-62154.herokuapp.com/)
